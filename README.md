@@ -20,8 +20,8 @@ This is a self-contained Jupyter notebook that reproduces the numerical results 
 Clone the repository, install the dependencies, and run the notebook:
 
 ```bash
-git clone https://github.com/USERNAME/REPONAME.git
-cd REPONAME
+git clone https://github.com/sahmed95/fixed-budget-mh.git
+cd fixed-budget-mh
 pip install -r requirements.txt
 jupyter notebook Fixed_Budget_Appendix.ipynb
 ```
